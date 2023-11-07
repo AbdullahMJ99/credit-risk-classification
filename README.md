@@ -25,4 +25,5 @@ Machine Learning Model 2: Model 2 Accuracy: 0.995. Model 2 Precision: for health
 Summary
 Summarize the results of the machine learning models, and include a recommendation on the model to use, if any. For example:
 
-Which one seems to perform best? How do you know it performs best? Second model performs best. The high risk loans are better and more important to predict
+Which one seems to perform best? How do you know it performs best? 
+Second model performs best. The high risk loans are better and more important to predict
