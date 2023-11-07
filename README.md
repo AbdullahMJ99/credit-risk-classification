@@ -1,11 +1,14 @@
 # credit-risk-classification
 
-Background
+*Background
+
 In this Challenge, you’ll use various techniques to train and evaluate a model based on loan risk. You’ll use a dataset of historical lending activity from a peer-to-peer lending services company to build a model that can identify the creditworthiness of borrowers.
 
 
 
-Overview of the Analysis
+
+*Overview of the Analysis
+
 Explain the purpose of the analysis.
 The purpose is to to evaluate and determine the accuracy of a data model
 
@@ -13,7 +16,8 @@ loan_size interest_rate borrower_income debt_to_income num_of_accounts derogator
 
 loan_size interest_rate borrower_income debt_to_income num_of_accounts derogatory_marks total_debt 0 10700.0 7.672 52800 0.431818 5 1 22800 1 8400.0 6.692 43600 0.311927 3 0 13600 2 9000.0 6.963 46100 0.349241 3 0 16100 3 10700.0 7.664 52700 0.430740 5 1 22700 4 10800.0 7.698 53000 0.433962 5 1 23000
 
-Results
+*Results
+
 Machine Learning Model 1: Model 1 Accuracy: 0.952. Model 1 Precision: for healthy loans the precision is 1.00, for high-risk loans the precision is 0.85. Model 1 Recall: for healthy loans the recall score is 0.99, for high-risk loans the recall score is 0.91
 
 Machine Learning Model 2: Model 2 Accuracy: 0.995. Model 2 Precision: for healthy loans the precision is 0.99, for high-risk loans the precision is 0.99. Model 2 Recall: for healthy loans the recall score is 0.99, for high-risk loans the recall score is 0.99.
